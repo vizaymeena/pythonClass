@@ -32,4 +32,4 @@ obj.show()
 print(a)
 
 
-# Note : variable that are associated with self parameter are instance variable and can be access thoroughout the class after constructor. 
+# Note : variable that are associated with self parameter are instance variable and can be access thoroughout the class after constructor. a

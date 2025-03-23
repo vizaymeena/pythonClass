@@ -1,6 +1,6 @@
 "insatnce Variable"
 class Student:
-
+   
     def __init__(self,name,roll,marks):
         # inside variable declared at constructor
         self.x=name

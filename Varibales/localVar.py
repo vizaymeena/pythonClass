@@ -5,7 +5,7 @@ cl='hihi'
 def Class():
     # Local varibale
     school='hehehihihuhu'
-    # Cannot print cl as it not loal variable of class function
+    # Cannot print cl as it not local variable of class function
     print(cl)
 
 

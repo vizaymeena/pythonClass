@@ -9,9 +9,10 @@ class Student:
     def __init__(self,name,rol):
         self.x=name
         self.y=rol
+obj=Student('Vijay',23)
+print(obj.x)
+print(obj.y)
 
-object1 = 'Vijay'
-object2 = 23
 
 # Note : Any variable that a=has been initiliazed aside of self is identity of instance var
 

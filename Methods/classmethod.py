@@ -5,7 +5,7 @@ class Book:
         self.title=title
         self.author=author
 
-    @classmethod
+    @classmethod 
     def update(cls,newprice,newpagescount,author2):
         cls.newprice=newprice
         cls.totalpages=newpagescount

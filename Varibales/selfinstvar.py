@@ -10,7 +10,7 @@ class Practice:
     def show(self):
         print(self.na,self.pl,self.ci,self.age)
 
-obj1=Practice('viay','bagoniya','bhopal')
+obj1=Practice('vijay','bagoniya','bhopal')
 obj1.age=23
 
 obj1.show()
